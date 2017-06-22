@@ -1,5 +1,6 @@
 forEach Code-Along
 ---
+READ
 
 ## Objectives
 
